@@ -4,8 +4,8 @@
 | Privacy     | 1. **Consent for data usage** ([[1]](#GDPR2018), [[2]](#fjeld2020), [[3]](#krafft2020))  <br> 2. **Data protection** ([[2]](#fjeld2020),[[3]](#krafft2020),[[4]](#floridi2019))<br> 3. **Control over data / ability to restrict processing** ([[1]](#GDPR2018), [[2]](#fjeld2020))<br> 4. **Right to rectification** ([[1]](#GDPR2018), [[2]](#fjeld2020), [[3]](#krafft2020)) <br> 5. **Right to erase the data** ([[1]](#GDPR2018), [[2]](#fjeld2020), [[3]](#krafft2020))<br> 6. **Right of access by data subject, data agency** ([[1]](#GDPR2018), [[5]](#IEEE2019)) | - <span style="color:orange">Written declaration of consent</span>([[1]](#GDPR2018)) <br> - <span style="color:orange">Description of what data is collected</span>([[6]](#mehldau2007)) <br> - <span style="color:orange">Description of how data is handled</span> ([[6]](#mehldau2007)) <br> - <span style="color:orange">Purpose statement of data collection</span> ([[6]](#mehldau2007)) <br> - <span style="color:orange">Statement of how long the data is kept</span> ([[6]](#mehldau2007)) <br> - <span style="color:olive">For and submission mechanisms to object data collection and to make complaints</span> ([[7]](#blazevic2021)) <br> - <span style="color:olive">Obfuscation of data</span> ([[3]](#krafft2020))                                                                                                                                                                                                                                   |     |
 | Security    | 1. **Resilience to attacks**: protection of privacy ([[8]](#microsoftai2018), [[9]](#hidalgo2021), [[10]](#wachter2019)), vulnerabilities, fallback plans ([[2]](#fjeld2020), [[3]](#krafft2020), [[11]](#morley2020), [[12]](#googleai2018)) <br>2. **Predictability** ([[2]](#fjeld2020), [[3]](#krafft2020), [[13]](#europeancommissionEthicsAI2019)) <br> 3. **Robustness / reliability**: prevent manipulation ([[3]](#krafft2020))                                                                                 | AGAINST INTEGRITY THREATS ([[14]](#xiong2021)): <br> - Training time ([[14]](#xiong2021)). Ex.:<span style="color:olive"><ul><li>Data sanitization ([[15]](#biggio2018), [[16]](#cretu2008))</li><li>Robust learning ([[15]](#biggio2018), [[17]](#globerson2006))</li></ul></span> -    Prediction time ([[14]](#xiong2021)): <span style="color:olive"><ul><li>Model enhancement ([[15]](#biggio2018), [[18]](#lyu2015), [[19]](#goodfellow2014), [[20]](#papernot2016))</li><ul><li>Adversarial learning</li><li>Gradient masking</li><li>Defensive Distillation</li></ul></ul></span> AGAINST PRIVACY THREATS ([[14]](#xiong2021)): <br> - Mitigation techniques ([[21]](#nasr2018)): <span style="color:olive"><ul><li>Restrict prediction vector to top k classes ([[22]](#shokri2017))</li><li>Coarsen the precision of the prediction vector ([[22]](#shokri2017))</li><li>Increase entropy of the prediction vector ([[22]](#shokri2017))</li><li>Use regularization ([[22]](#shokri2017), [[23]](#kaya2020))</li></ul></span>  - Differential privacy mechanisms ([[21]](#nasr2018)):     <span style="color:olive"><ul><li>Differential privacy ([[24]](#ye2021), [[25]](#dwork2006))</li><ul><li>Adversarial regularization ([[21]](#nasr2018))</li><li>MemGuard ([[26]](#jia2019))</li></ul></ul></span> |     |
 | Performance | 1. **Correctness of predictions** ([[2]](#fjeld2020), [[13]](#europeancommissionEthicsAI2019), [[27]](#bihrane2021)) <br> 2. **Memory efficiency** ([[3]](#krafft2020)), [[27]](#bihrane2021))<br> 3. **Training efficiency** ([[27]](#bihrane2021)) <br> 4. **Energy efficiency** ([[3]](#krafft2020)), [[27]](#bihrane2021)) <br> 5. **Data efficiency** ([[27]](#bihrane2021))  |   - <span style="color:magenta">Accuracy ([[28]](#mitchell2019), [[29]](#wexler2019))</span> <br> - <span style="color:magenta">False Positive and Negative rates ([[28]](#mitchell2019), [[29]](#wexler2019))</span> <br> - <span style="color:magenta">False Discovery and Omission rates ([[28]](#mitchell2019))</span> <br> - <span style="color:magenta">Mean and median error ([[29]](#wexler2019))</span> <br> - <span style="color:magenta">R2 score ([[30]](#bird2020))</span> <br> - <span style="color:magenta">Precision and recall rates ([[29]](#wexler2019))</span><br> - <span style="color:magenta">Area under ROC curve (AUC) ([[30]](#bird2020))</span> <br> - <span style="color:magenta">Estimation of energy consumption through ([[31]](#garciamartin2019)):</span> <span style="color:black"><ul><li>performance counters</li><li>simulation</li><li>instruction- or architecture-level estimations</li><li>real-time estimation</li></ul></span>- <span style="color:magenta">Estimation of GPU memory consumption ([[32]](#gao2020), [[33]](#mahendran2021))</span> <br> - <span style="color:magenta">Wall-clock training time ([[34]](#assran2020), [[35]](#dalton2020))</span>  |
-|Respect for public interest | 1. **Desirability of technology** <br> 2. **Benefit to society** <br> 3. **Environmental impact** | - <span style="color:olive">Diverse and inclusive forum for discussion</span> <br> - <span style="color:orange">Measure of social and environmental impact</span> |
-Fairness| 1. **Individual fairness** <br> 2. **Demographic parity** <br> 3. **Conditional statistical parity** <br> 4. **Equality of opportunity** <br> 5. **Equalized odds** <br> 6. **Treatment equality** <br> 7. **Test fairness** <br> 8. **Procedural fairness**  | - <span style="color:magenta">Accuracy across groups</span><br> - <span style="color:magenta">False positive and negative rates across groups</span> <br> - <span style="color:magenta">False discovery and omission rates across groups</span><br> - <span style="color:magenta">Pinned AUC</span><br> - <span style="color:olive">Debiasing algorithms</span><br> - <span style="color:olive">Election of protected classes based on user considerations</span> 
+|Respect for public interest | 1. **Desirability of technology** ([[36]](#chasalow2021), [[37]](#abebe2020), [[38]](#keyes2019))<br> 2. **Benefit to society** ([[2]](#fjeld2020), [[4]](#floridi2019), [[11]](#morley2020), [[39]](#floridi2018))<br> 3. **Environmental impact** ([[3]](#krafft2020), [[40]](#bender2021)) | - <span style="color:olive">Diverse and inclusive forum for discussion ([[2]](#fjeld2020), [[41]](#frenchminister2019))</span> <br> - <span style="color:orange">Measure of social and environmental impact ([[11]](#morley2020), [[40]](#bender2021)), [[42]](#raji2020))</span> |
+Fairness| 1. **Individual fairness** ([[25]](#dwork2006), [[43]](#mehrabi2021), [[44]](#barredoarrieta2020), [[45]](#kusner2017))<br> 2. **Demographic parity** ([[9]](#hidalgo2021), [[25]](#dwork2006), [[43]](#mehrabi2021),[[44]](#barredoarrieta2020), [[45]](#kusner2017), [[46]](#harrison2020), [[47]](#srivastava2019), [[48]](#kearns2018), [[49]](#verma2018))<br> 3. **Conditional statistical parity** ([[43]](#mehrabi2021), [[49]](#verma2018))<br> 4. **Equality of opportunity** ([[43]](#mehrabi2021), [[50]](#hardt2016), [[51]](#vanBerkel2021)) <br> 5. **Equalized odds** ([[43]](#mehrabi2021))<br> 6. **Treatment equality** ([[43]](#mehrabi2021), [[52]](#berk2017))<br> 7. **Test fairness** ([[43]](#mehrabi2021), [[49]](#verma2018), [[53]](#chouldechova2016))<br> 8. **Procedural fairness** ([[43]](#mehrabi2021), [[45]](#kusner2017), [[54]](#grgichlaca2018)) | - <span style="color:magenta">Accuracy across groups ([[11]](#morley2020), [[46]](#harrison2020), [[53]](#chouldechova2016), [[55]](#kleinberg2016))</span><br> - <span style="color:magenta">False positive and negative rates across groups ([[43]](#mehrabi2021), [[53]](#chouldechova2016), [[55]](#kleinberg2016), [[56]](#wang2020), [[57]](#saleiro2018))</span> <br> - <span style="color:magenta">False discovery and omission rates across groups ([[28]](#mitchell2019), [[57]](#saleiro2018))</span><br> - <span style="color:magenta">Pinned AUC ([[28]](#mitchell2019), [[58]](#dixon2018))</span><br> - <span style="color:olive">Debiasing algorithms ([[59]](#bellamy2018))</span><br> - <span style="color:olive">Election of protected classes based on user considerations ([[54]](#grgichlaca2018))</span> 
 | Non-discrimination| 1. **Quality and integrity of data** <br> 2. **Inclusiveness in design** <br> 3. **Accessibility** | - <span style="color:olive">Inclusive data generation process</span> <br> - <span style="color:magenta">Analysis of data for potential biases, data quality assessment</span><br>- <span style="color:olive">Diversity of participant in development process</span><br> - <span style="color:olive">Access to code and technology to all</span>
 | Transparency| 1. **Interpretability of data and models** <br> 2. **Enabling human oversight of operations**<br>3. **Accessibility of data and algorithm**<br> 4. **Traceability**<br>5. **Reproducibility** | - <span style="color:orange">Description of data generation process</span><br> - <span style="color:orange">Disclosure of origin and properties of models and data</span><br> - <span style="color:olive">Open access to data and algorithms</span><br> - <span style="color:orange">Notification of usage/interaction</span><br> - <span style="color:orange">Regular reporting</span>
 |Explainability| 1. **Ability to understand AI systems and the decision reached**<br> 2. **Traceability** <br> 3. **Enable evaluation** | - <span style="color:olive">Interpretability by design</span><br> - <span style="color:olive">Post-hoc explanations</span>
@@ -175,3 +175,128 @@ Gossip-based Actor-Learner Architectures for Deep Reinforcement Learning. (6 201
 <a id="dalton2020">[35]</a> 
 Steven Dalton, Iuri Frosio, and Michael Garland. 2019. 
 Accelerating Reinforcement Learning through GPU Atari Emulation. (7 2019).
+
+<a id="chasalow2021">[36]</a> 
+Kyla Chasalow and Karen Levy. 2021. 
+Representativeness in Statistics, Politics, and Machine Learning. 
+In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’21). Association for Computing Machinery, New York, NY, USA, 77–89. https://doi.org/10.1145/3442188.3445872
+
+<a id="abebe2020">[37]</a> 
+Rediet Abebe, Solon Barocas, Jon Kleinberg, Karen Levy, Manish Raghavan, and David G. Robinson. 2020. 
+Roles for computing in so- cial change. 
+In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency. ACM, New York, NY, USA, 252–260. https://doi.org/10.1145/3351095.3372871
+
+<a id="keyes2019">[38]</a> 
+Os Keyes, Jevan Hutson, and Meredith Durbin. 2019. 
+A Mulching Proposal: Analysing and Improving an Algorithmic System for Turning the Elderly into High-Nutrient Slurry. 
+In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA ’19). Association for Computing Machinery, New York, NY, USA,1–11. https://doi.org/10.1145/3290607.3310433
+
+<a id="floridi2018">[39]</a> 
+Luciano Floridi, Josh Cowls, Monica Beltrametti, Raja Chatila, Patrice Chazerand, Virginia Dignum, Christoph Luetge, Robert Madelin, Ugo Pagallo, Francesca Rossi, Burkhard Schafer, Peggy Valcke, and Effy Vayena. 2018. 
+AI4People—An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations. 
+Minds and Machines 28, 4 (12 2018). 
+
+<a id="bender2021">[40]</a> 
+Emily M Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021. 
+On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?. 
+In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’21). Association for Computing Machinery,NewYork,NY,USA,610–623. https://doi.org/10.1145/3442188.3445922
+
+<a id="frenchminister2019">[41]</a> 
+Mission assigned by the French Prime Minister. 2019. 
+For a Meaningful Artificial Intelligence: Toward a French and European Strategy. https://www.aiforhumanity.fr/pdfs/MissionVillani_Report_ENG-VF.pdf
+
+<a id="raji2020">[42]</a> 
+Inioluwa Deborah Raji, Andrew Smart, Rebecca N. White, Margaret Mitchell, Timnit Gebru, Ben Hutchinson, Jamila Smith-Loud, Daniel Theron, and Parker Barnes. 2020. 
+Closing the AI accountability gap. 
+In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency. ACM,NewYork,NY,USA,33–44. https://doi.org/10.1145/3351095.3372873
+
+<a id="mehrabi2021">[43]</a> 
+Ninareh Mehrabi, Fred Morstatter, Nripsuta Saxena, Kristina Lerman, and Aram Galstyan. 2021. 
+A Survey on Bias and Fairness in Machine Learning. 
+ACM Comput. Surv. 54, 6 (7 2021). https://doi.org/10.1145/3457607
+
+<a id="barredoarrieta2020">[44]</a> 
+Alejandro Barredo Arrieta, Natalia Díaz-Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador Garcia, Sergio Gil-Lopez, Daniel Molina, Richard Benjamins, Raja Chatila, and Francisco Herrera. 2020. 
+Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI. 
+Information Fusion 58 (6 2020), 82–115. https://doi.org/10.1016/J.INFFUS.2019.12.012
+
+<a id="kusner2017">[45]</a> 
+Matt J Kusner, Joshua Loftus, Chris Russell, and Ricardo Silva. 2017. 
+Counterfactual Fairness. 
+In Advances in Neural Information Processing Systems, I Guyon, U V Luxburg, S Bengio, H Wallach, R Fergus, S Vishwanathan, and R Garnett (Eds.), Vol. 30. Curran Associates, Inc. https://proceedings.neurips.cc/paper/2017/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf
+
+<a id="harrison2020">[46]</a> 
+Galen Harrison, Julia Hanson, Christine Jacinto, Julio Ramirez, and Blase Ur. 2020. 
+An empirical study on the perceived fairness of realistic, imperfect machine learning models. 
+In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency. ACM, New York, NY, USA, 392–402. https://doi.org/10.1145/3351095.3372831
+
+<a id="srivastava2019">[47]</a> 
+Megha Srivastava, Hoda Heidari, and Andreas Krause. 2019. Mathematical Notions vs. 
+Human Perception of Fairness. 
+In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, New York, NY, USA, 2459–2468. https://doi.org/10.1145/3292500.3330664
+
+<a id="kearns2018">[48]</a> 
+Richard Berk, Hoda Heidari, Shahin Jabbari, Michael Kearns, and Aaron Roth. 2017. 
+Fairness in Criminal Justice Risk Assessments: The State of the Art. (3 2017).
+
+<a id="verma2018">[49]</a> 
+Sahil Verma and Julia Rubin. 2018. 
+Fairness definitions explained. 
+In Proceedings of the International Workshop on Software Fairness. ACM, New York, NY, USA,1–7. https://doi.org/10.1145/3194770.3194776
+
+<a id="hardt2016">[50]</a> 
+Moritz Hardt, Eric Price, and Nathan Srebro. 2016. 
+Equality of Opportunity in Supervised Learning. 
+In Proceedings of the 30th International Conference on Neural Information Processing Systems (NIPS’16). Curran Associates Inc., Red Hook, NY, USA, 3323–3331.
+
+<a id="vanBerkel2021">[51]</a> 
+Niels van Berkel, Jorge Goncalves, Daniel Russo, Simo Hosio, and Mikael B. Skov. 2021. 
+Effect of Information Presentation on Fairness Perceptions of Machine Learning Predictors. 
+In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. ACM, New York, NY, USA, 1–13. https://doi.org/10.1145/3411764.3445365
+
+<a id="berk2017">[52]</a> 
+Richard Berk, Hoda Heidari, Shahin Jabbari, Michael Kearns, and Aaron Roth. 2017. 
+Fairness in Criminal Justice Risk Assessments: The State of the Art. (3 2017).
+
+<a id="chouldechova2016">[53]</a> 
+Alexandra Chouldechova. 2016. 
+Fair prediction with disparate impact: A study of bias in recidivism prediction instruments. (10 2016).
+
+<a id="grgichlaca2018">[54]</a> 
+Nina Grgic-Hlaca, Muhammad Bilal Zafar, Krishna P Gummadi, and Adrian Weller. 2018. 
+Beyond Distributive Fairness in Algorithmic Decision Making: Feature Selection for Procedurally Fair Learning. 
+In Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 32.
+
+
+<a id="kleinberg2016">[55]</a> 
+Jon Kleinberg, Sendhil Mullainathan, and Manish Raghavan. 2016. 
+Inherent Trade-Offs in the Fair Determination of Risk Scores. (9 2016).
+
+<a id="wang2020">[56]</a> 
+Zezhong Wang, Jacob Ritchie, Jingtao Zhou, Fanny Chevalier, and Benjamin Bach. 2021. 
+Data Comics for Reporting Controlled User Studies in Human-Computer Interaction.
+IEEE Transactionson Visualization and Computer Graphics 27, 2 (2 2021),967–977. https://doi.org/10.1109/TVCG.2020.3030433
+
+<a id="saleiro2018">[57]</a> 
+Pedro Saleiro, Benedict Kuester, Loren Hinkson, Jesse London, Abby Stevens, Ari Anisfeld, Kit T Rodolfa, and Rayid Ghani. 2018. 
+Aequitas: A Bias and Fairness Audit Toolkit.
+
+<a id="dixon2018">[58]</a> 
+Lucas Dixon, John Li, Jeffrey Sorensen, Nithum Thain, and Lucy Vasserman. 2018. 
+Measuring and Mitigating Unintended Bias in Text Classification.
+In Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society. ACM, New York, NY, USA, 67–73. https://doi.org/10.1145/3278721.3278729
+
+<a id="bellamy2018">[59]</a> 
+R K E Bellamy, K Dey, M Hind, S C Hoffman, S Houde, K Kannan, P Lohia, J Martino, S Mehta, A Mojsilović, S Nagar, K Natesan Ramamurthy, J Richards, D Saha, P Sattigeri, M Singh, K R Varshney, and Y Zhang. 2019. 
+AI Fairness 360: An extensible toolkit for detecting and mitigating algorithmic bias. 
+IBM Journal of Research and Development 63, 4/5 (2019), 1–4. https://doi.org/10.1147/JRD.2019.2942287
+
+
+
+
+
+
+
+
+
+
