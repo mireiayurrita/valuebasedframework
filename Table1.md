@@ -57,7 +57,7 @@ https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6
 <a id="hidalgo2021">[9]</a> 
 César Hidalgo, Diana Orghian, Jordi Albo-Canals, Filipa de Almeida, and Natalia Martin. 2021. 
 How Humans Judge Machines. 
-MIT Press. https://hal.archives- ouvertes.fr/hal-03058652
+MIT Press. https://hal.archives-ouvertes.fr/hal-03058652
 
 <a id="wachter2019">[10]</a> 
 Sandra Wachter and Brent Mittelstadt. 2019. 
