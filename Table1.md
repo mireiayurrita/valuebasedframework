@@ -9,9 +9,9 @@ Fairness| 1. **Individual fairness** ([[25]](#dwork2006), [[43]](#mehrabi2021), 
 | Non-discrimination| 1. **Quality and integrity of data** ([[2]](#fjeld2020), [[9]](#hidalgo2021), [[11]](#morley2020), [[60]](#stuartgeiger2020), [[61]](#paullada2020)) <br> 2. **Inclusiveness in design** ([[2]](#fjeld2020), [[11]](#morley2020), [[13]](#europeancommissionEthicsAI2019))<br> 3. **Accessibility** ([[2]](#fjeld2020), [[3]](#krafft2020), [[11]](#morley2020), [[27]](#bihrane2021)) | - <span style="color:olive">Inclusive data generation process ([[3]](#krafft2020), [[11]](#morley2020), [[36]](#chasalow2021), [[60]](#stuartgeiger2020))</span> <br> - <span style="color:magenta">Analysis of data for potential biases, data quality assessment ([[2]](#fjeld2020),[[3]](#krafft2020), [[9]](#hidalgo2021), [[43]](#mehrabi2021), [[62]](#gebru2020))</span><br>- <span style="color:olive">Diversity of participant in development process ([[2]](#fjeld2020), [[3]](#krafft2020), [[63]](#lee2019), [[64]](#zhouWeb))</span><br> - <span style="color:olive">Access to code and technology to all ([[2]](#fjeld2020), [[3]](#krafft2020), [[11]](#morley2020), [[27]](#bihrane2021))</span>
 | Transparency| 1. **Interpretability of data and models** ([[27]](#bihrane2021), [[65]](#royalsociety2019))<br> 2. **Enabling human oversight of operations** ([[2]](#fjeld2020), [[11]](#morley2020))<br>3. **Accessibility of data and algorithm** ([[2]](#fjeld2020), [[3]](#krafft2020), [[65]](#royalsociety2019))<br> 4. **Traceability** [[11]](#morley2020)<br>5. **Reproducibility** [[27]](#bihrane2021)| - <span style="color:orange">Description of data generation process ([[3]](#krafft2020), [[11]](#morley2020), [[36]](#chasalow2021), [[60]](#stuartgeiger2020), [[62]](#gebru2020), [[66]](#bender2018))</span><br> - <span style="color:orange">Disclosure of origin and properties of models and data ([[3]](#krafft2020), [[28]](#mitchell2019), [[65]](#royalsociety2019))</span><br> - <span style="color:olive">Open access to data and algorithms ([[2]](#fjeld2020), [[3]](#krafft2020), [[27]](#bihrane2021), [[65]](#royalsociety2019))</span><br> - <span style="color:orange">Notification of usage/interaction ([[2]](#fjeld2020))</span><br> - <span style="color:orange">Regular reporting ([[2]](#fjeld2020))</span>
 |Explainability| 1. **Ability to understand AI systems and the decision reached** ([[4]](#floridi2019), [[13]](#europeancommissionEthicsAI2019), [[27]](#bihrane2021), [[39]](#floridi2018), [[65]](#royalsociety2019), [[67]](#OECD2019))<br> 2. **Traceability** ([[11]](#morley2020)) <br> 3. **Enable evaluation** ([[2]](#fjeld2020), [[11]](#morley2020)) | - <span style="color:olive">Interpretability by design ([[44]](#barredoarrieta2020))</span><br> - <span style="color:olive">Post-hoc explanations ([[44]](#barredoarrieta2020))</span>
-Contestability | 1. **Enable argumentation / negotiation against a decision** <br> 2. **Citizen empowerment** | - <span style="color:orange">Information of who determines and what constitutes a contestable decision and who is accountable</span><br> - <span style="color:orange">Determination of who can contest the decision (subject or representative)</span><br> - <span style="color:orange">Indication of type of review in place</span><br> - <span style="color:orange">Information regarding the contestability workflow</span><br> - <span style="color:olive">Mechanisms for users to ask questions and record disagreements with system behavior</span>
-| Human Control | 1. **User/collective influence** <br> 2. **Human review of automated decision**<br> 3. **Choice of how and whether to delegate** | - <span style="color:olive">Continuous monitoring of system to intervene</span><br> - <span style="color:olive">Establishment levels of human discretion during the use of the system</span><br> - <span style="color:olive">Ability to override the decision made by the system</span>
-| Human Agency| 1. **Respect for human autonomy** <br> 2. **Power to decide. Ability to make informed autonomous decision**<br> 3. **Ability to opt out of an automated decision**|- <span style="color:orange">Give knowledge and tools to comprehend and interact with AI system</span><br> - <span style="color:olive">Opportunity to self-assess the system</span>
+Contestability | 1. **Enable argumentation / negotiation against a decision** ([[2]](#fjeld2020), [[13]](#europeancommissionEthicsAI2019), [[65]](#royalsociety2019), [[68]](#balayn2021Edri), [[69]](#kyunglee2017), [[70]](#alfrink2020), [[71]](#kalluri2020), [[72]](#lyons2021)) <br> 2. **Citizen empowerment** ([[13]](#europeancommissionEthicsAI2019), [[68]](#balayn2021Edri), [[71]](#kalluri2020))| - <span style="color:orange">Information of who determines and what constitutes a contestable decision and who is accountable ([[72]](#lyons2021))</span><br> - <span style="color:orange">Determination of who can contest the decision (subject or representative) ([[72]](#lyons2021))</span><br> - <span style="color:orange">Indication of type of review in place ([[72]](#lyons2021))</span><br> - <span style="color:orange">Information regarding the contestability workflow ([[72]](#lyons2021))</span><br> - <span style="color:olive">Mechanisms for users to ask questions and record disagreements with system behavior ([[73]](#hirsch2017), [[74]](#mitra2021))</span>
+| Human Control | 1. **User/collective influence** ([[27]](#bihrane2021), [[69]](#kyunglee2017)) <br> 2. **Human review of automated decision** ([[2]](#fjeld2020))<br> 3. **Choice of how and whether to delegate** ([[2]](#fjeld2020))| - <span style="color:olive">Continuous monitoring of system to intervene ([[2]](#fjeld2020), [[13]](#europeancommissionEthicsAI2019), [[75]](#teliaai2019))</span><br> - <span style="color:olive">Establishment levels of human discretion during the use of the system ([[8]](#microsoftai2018), [[13]](#europeancommissionEthicsAI2019))</span><br> - <span style="color:olive">Ability to override the decision made by the system ([[13]](#europeancommissionEthicsAI2019))</span>
+| Human Agency| 1. **Respect for human autonomy** ([[2]](#fjeld2020), [[11]](#morley2020), [[13]](#europeancommissionEthicsAI2019))<br> 2. **Power to decide. Ability to make informed autonomous decision** ([[13]](#europeancommissionEthicsAI2019), [[27]](#bihrane2021))<br> 3. **Ability to opt out of an automated decision** ([[2]](#fjeld2020), [[13]](#europeancommissionEthicsAI2019))|- <span style="color:orange">Give knowledge and tools to comprehend and interact with AI system ([[13]](#europeancommissionEthicsAI2019))</span><br> - <span style="color:olive">Opportunity to self-assess the system ([[13]](#europeancommissionEthicsAI2019))</span>
 
 ## References
 <a id="GDPR2018">[1]</a> 
@@ -326,6 +326,46 @@ Transactions of the Association for Computational Linguistics 6 (12 2018). https
 OECD. 2019. 
 Recommendation of the Council on Artificial Intelligence. 
 https://legalinstruments.oecd.org/en/instruments/OECD- LEGAL- 0406 
+
+<a id="balayn2021Edri">[68]</a> 
+Agathe Balayn and Seda Gürses. 2021. 
+Beyond Debiasing: Regulating AI and its inequalities. 
+https://edri.org/our-work/if-ai-is-the-problem-is-debiasing-the-solution/
+
+<a id="kyunglee2017">[69]</a> 
+Min Kyung Lee and Su Baykal. 2017. 
+Algorithmic Mediation in Group Decisions: Fairness Perceptions of Algorithmically Mediated vs. Discussion-Based Social Division. 
+In Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW’17).Association for Computing Machinery, NewYork, NY, USA, 1035–1048. https://doi.org/10.1145/2998181.2998230
+
+<a id="alfrink2020">[70]</a> 
+Kars Alfrink, T. Turel, A. I. Keller, N. Doorn, and G. W. Kortuem. 2020. 
+Contestable City Algorithms. 
+International Conference on Machine Learning Workshop.
+
+<a id="kalluri2020">[71]</a> 
+Pratyusha Kalluri. 2020. 
+Don’t ask if artificial intelligence is good or fair, ask how it shifts power. 
+Nature 583, 7815 (2020). https://doi.org/10.1038/d41586-020-02003-2
+
+<a id="lyons2021">[72]</a> 
+Henrietta Lyons, Eduardo Velloso, and Tim Miller. 2021. 
+Conceptualising Contestability: Perspectives on Contesting Algorithmic Decisions. (2 2021). https://doi.org/10.1145/3449180
+
+<a id="hirsch2017">[73]</a> 
+Tad Hirsch, Kritzia Merced, Shrikanth Narayanan, Zac E. Imel, and David C. Atkins. 2017. 
+Designing Contestability. 
+In Proceedings of the 2017 Conference on Designing Interactive Systems. ACM, New York, NY, USA. https://doi.org/10.1145/3064663.3064703
+
+<a id="mitra2021">[74]</a> 
+Tanushree Mitra. 2021. 
+Provocation: Contestability in Large-Scale Interactive {NLP} Systems. 
+In Proceedings of the First Workshop on Bridging Human–Computer Interaction and Natural Language Processing. Association for Computational Linguistics, 96–100.
+
+<a id="teliaai2019">[75]</a> 
+Telia Company. 2019. 
+Guiding Principles on Trusted AI Ethics. 
+https://www.teliacompany.com/globalassets/telia-company/documents/about-telia-company/public-policy/2018/guiding-principles-on-trusted-ai-ethics.pdf
+
 
 
 
