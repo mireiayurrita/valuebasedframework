@@ -363,3 +363,5 @@ In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems.
 Clément Henin and Daniel Le Métayer. 2021. 
 Beyond explainability: justifiability and contestability of algorithmic decision systems. 
 AI & SOCIETY (7 2021). [https://doi.org/10.1007/s00146-021-01251-8](https://doi.org/10.1007/s00146-021-01251-8)
+
+[Back to main page](index.md)
