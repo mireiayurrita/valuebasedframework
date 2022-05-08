@@ -7,6 +7,8 @@ Auditing team | Milieu, Formal + Instrumental | - ''Familiarity with broader ML-
 | Data domain experts | Data domain,  Formal + Instrumental |- ''Theories relevant to the data domain''([[76]](#suresh2021)) <br> - ''Professional involved in the operational phase of the automatic decision system'' ([[77]](#henin2021))) | - Gain scientific or domain-specific knowledge ([[76]](#suresh2021), [[78]](#barredoarrieta2020)) <br> - Trust the model ([[76]](#suresh2021), [[78]](#barredoarrieta2020)) <br> - Act based on the output ([[76]](#suresh2021))
 | Decision subjects | Data domain + Milieu, Personal | - ''Lived experience and cultural knowledge'' ([[76]](#suresh2021))<br> - ''Layperson affected by the outcomes of the automatic decision system''  ([[77]](#henin2021)) | - Understand their situation ([[78]](#barredoarrieta2020)) <br> - Verify fair decision ([[78]](#barredoarrieta2020))<br> - Understand how one's data is being used ([[76]](#suresh2021))
 
+Description of potential stakeholders that can be brought together as part of our value-based framework. These stakeholders have been mapped following the two dimensional criteria (type of knowledge ---formal, instrumental or personal--- and contexts in which this knowledge manifests ---ML, data domain, milieu---) outlined by Suresh et al. ([[76]](#suresh2021)). The nature of their knowledge and the purpose of gaining insight for each of them have also been defined.
+
 
 ## References
 
