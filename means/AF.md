@@ -1,0 +1,3 @@
+|       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
+| ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
+<span style="color:#50C878">[AF]</span> | Representative contestations | *CONTESTABILITY* <br> - Mechanisms for users to ask questions and record disagreement with system behavior  | | | | ✅| | | | 

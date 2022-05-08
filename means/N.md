@@ -1,0 +1,3 @@
+|       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
+| ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
+<span style="color:#6495ED">[N]</span> | Explanation by simplification |   *EXPLAINABILITY*<br> - Post-hoc explanations |✅ |✅ |✅ | ✅ | Agnostic |- Decision rule <br> - Decision tree|   |
