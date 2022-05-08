@@ -352,3 +352,14 @@ In Proceedings of the First Workshop on Bridging Human–Computer Interaction an
 Telia Company. 2019. 
 Guiding Principles on Trusted AI Ethics. 
 [https://www.teliacompany.com/globalassets/telia-company/documents/about-telia-company/public-policy/2018/guiding-principles-on-trusted-ai-ethics.pdf](https://www.teliacompany.com/globalassets/telia-company/documents/about-telia-company/public-policy/2018/guiding-principles-on-trusted-ai-ethics.pdf)
+
+
+<a id="suresh2021">[76]</a> 
+Harini Suresh, Steven R. Gomez, Kevin K. Nam, and Arvind Satyanarayan. 2021. 
+Beyond Expertise and Roles: A Framework to Characterize the Stakeholders of Interpretable Machine Learning and their Needs. 
+In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. ACM, NewYork, NY, USA, 1–16. [https://doi.org/10.1145/3411764.3445088](https://doi.org/10.1145/3411764.3445088)
+
+<a id="henin2021">[77]</a> 
+Clément Henin and Daniel Le Métayer. 2021. 
+Beyond explainability: justifiability and contestability of algorithmic decision systems. 
+AI & SOCIETY (7 2021). [https://doi.org/10.1007/s00146-021-01251-8](https://doi.org/10.1007/s00146-021-01251-8)
