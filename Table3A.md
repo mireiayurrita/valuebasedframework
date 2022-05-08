@@ -16,8 +16,8 @@
 
 Mapping of available means for transmitting value-specific manifestations to different stakeholders based on the purpose of
 their insight and the nature of their knowledge. These means have been classified into three main categories: descriptive documents
-specifying whether/how a value manifestation is fulfilled (red), strategies for fulfilling value manifestations (blue), and complete tools
-for enabling the fulfillment of value manifestations (green). 
+specifying whether/how a value manifestation is fulfilled, strategies for fulfilling value manifestations, and complete tools
+for enabling the fulfillment of value manifestations. 
 
 [Back to main page](index.md)
 
