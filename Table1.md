@@ -15,7 +15,7 @@ Contestability | 1. **Enable argumentation / negotiation against a decision** ([
 
 Summary of the specific criteria that relate to each value considered in our ML assessment framework. These criteria are then translated into specific manifestations in the form of signifiers (orange), process-oriented practices (olive) or quantifiable indicators (magenta).
 
-[Back to home page](index.md)
+[Back to main page](index.md)
 
 [^1]: It ensures data soundness by identifying abnormal input samples and by removing them ([[14]](#xiong2021))
 [^2]: It ensures that algorithms are trained on statistically robust datasets, with little sensitivity to outliers ([[14]](#xiong2021))
@@ -258,7 +258,7 @@ In Proceedings of the 2020 Conference on Fairness, Accountability, and Transpare
 <a id="srivastava2019">[47]</a> 
 Megha Srivastava, Hoda Heidari, and Andreas Krause. 2019. Mathematical Notions vs. 
 Human Perception of Fairness. 
-In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, New York, NY, USA, 2459–2468. https://doi.org/10.1145/3292500.3330664
+In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, New York, NY, USA, 2459–2468. [https://doi.org/10.1145/3292500.3330664](https://doi.org/10.1145/3292500.3330664)
 
 <a id="kearns2018">[48]</a> 
 Richard Berk, Hoda Heidari, Shahin Jabbari, Michael Kearns, and Aaron Roth. 2017. 
