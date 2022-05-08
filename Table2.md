@@ -9,6 +9,7 @@ Auditing team | Milieu, Formal + Instrumental | - ''Familiarity with broader ML-
 
 Description of potential stakeholders that can be brought together as part of our value-based framework. These stakeholders have been mapped following the two dimensional criteria (type of knowledge ---formal, instrumental or personal--- and contexts in which this knowledge manifests ---ML, data domain, milieu---) outlined by Suresh et al. ([[76]](#suresh2021)). The nature of their knowledge and the purpose of gaining insight for each of them have also been defined.
 
+[Back to main page](index.md)
 
 ## References
 
