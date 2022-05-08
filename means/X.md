@@ -1,3 +1,7 @@
 |       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
 | ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
 <span style="color:#50C878">[X]</span> | Aequitas | *FAIRNESS* <br> - Accuracy across groups <br> - False Positive and Negative rates across groups<br> - False Discovery and omission rates across groups <br> - Counterfactual examples <br><br> *NON-DISCRIMINATION*<br> -Analysis of data for potential biases, data quality assessment  | ✅| ✅| | | Agnostic| |  | 
+
+[Back to "Tailored communication of system-related information"](../Table3A.md)
+
+[Back to main page](../index.md)

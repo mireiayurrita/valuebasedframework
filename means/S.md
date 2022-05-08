@@ -1,3 +1,7 @@
 |       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
 | ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
 <span style="color:#6495ED">[S]</span> | Experiential AI |   *EXPLAINABILITY*<br> - Post-hoc explanations | | | | ✅ | Agnostic |Art mediated between computer code and human comprehension | |
+
+[Back to "Tailored communication of system-related information"](../Table3A.md)
+
+[Back to main page](../index.md)
