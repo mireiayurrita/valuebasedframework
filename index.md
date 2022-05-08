@@ -5,3 +5,5 @@
 [Mapping stakeholders](Table2.md)
 
 [Tailored communication of system-related information](Table3A.md)
+
+[References](references.md)
