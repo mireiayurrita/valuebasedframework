@@ -15,6 +15,8 @@ Contestability | 1. **Enable argumentation / negotiation against a decision** ([
 
 Summary of the specific criteria that relate to each value considered in our ML assessment framework. These criteria are then translated into specific manifestations in the form of signifiers (orange), process-oriented practices (olive) or quantifiable indicators (magenta).
 
+[Back to home page](index.md)
+
 [^1]: It ensures data soundness by identifying abnormal input samples and by removing them ([[14]](#xiong2021))
 [^2]: It ensures that algorithms are trained on statistically robust datasets, with little sensitivity to outliers ([[14]](#xiong2021))
 [^3]: Adversarial samples are introduced to the training set ([[14]](#xiong2021))
