@@ -1,28 +1,17 @@
 ## Tailored communication of system-related information
 | Value       | Development team  | Auditing team  | Data Domain experts | Decision subjects 
-
 | ----------- | ----------------- | -------------- | ------------------- | ------------------
 
 | Privacy     | <span style="color:red">[K]</span> | <span style="color:red">[K]</span> | |<span style="color:#6495ED">[A]</span>  <span style="color:#50C878">[B]</span> 
-
 | Security | <span style="color:red">[K]</span> <span style="color:red">[W]</span> <span style="color:#50C878">[AB]</span> | <span style="color:red">[K]</span> <span style="color:red">[W]</span>  
-
 |Performance | <span style="color:#50C878">[F]</span><span style="color:red">[G]</span><span style="color:#50C878">[H]</span><span style="color:#50C878">[Y]</span><span style="color:#50C878">[Z]</span><span style="color:#50C878">[AE]</span> | <span style="color:red">[G]</span><span style="color:#50C878">[H]</span><span style="color:#50C878">[Y]</span><span style="color:#50C878">[Z]</span><span style="color:#50C878">[AE]</span> |<span style="color:#50C878">[I]</span> <span style="color:#6495ED">[J]</span>| <span style="color:#6495ED">[J]</span>
-
 | Respect for public interest | <span style="color:red">[E]</span><span style="color:#50C878">[AE]</span> |<span style="color:red">[E]</span><span style="color:#50C878">[AE]</span> |<span style="color:red">[E]</span> |<span style="color:#6495ED">[C]</span><span style="color:#6495ED">[D]</span> 
-
 | Fairness | <span style="color:red">[G]</span><span style="color:#50C878">[H]</span><span style="color:red">[K]</span><span style="color:red">[W]</span><span style="color:#50C878">[X]</span><span style="color:#50C878">[Y]</span><span style="color:#50C878">[Z]</span><span style="color:#50C878">[AD]</span>| <span style="color:red">[G]</span><span style="color:#50C878">[H]</span><span style="color:red">[K]</span><span style="color:red">[W]</span><span style="color:#50C878">[X]</span><span style="color:#50C878">[Y]</span><span style="color:#50C878">[Z]</span><span style="color:#50C878">[AD]</span> |<span style="color:#50C878">[I]</span><span style="color:#6495ED">[J]</span>|<span style="color:#6495ED">[J]</span>
-
 | Non-discrimination | <span style="color:#50C878">[H]</span><span style="color:red">[K]</span><span style="color:#50C878">[X]</span><span style="color:#50C878">[Y]</span><span style="color:#50C878">[AD]</span> |<span style="color:#50C878">[H]</span><span style="color:red">[K]</span><span style="color:#50C878">[X]</span><span style="color:#50C878">[Y]</span><span style="color:#50C878">[AD]</span> |<span style="color:#6495ED">[J]</span><span style="color:#6495ED">[L]</span>| <span style="color:#6495ED">[J]</span><span style="color:#6495ED">[L]</span>
-
 | Transparency | <span style="color:#50C878">[H]</span><span style="color:red">[K]</span><span style="color:#6495ED">[M]</span>|<span style="color:#50C878">[H]</span><span style="color:red">[K]</span><span style="color:#6495ED">[M]</span> | <span style="color:#50C878">[I]</span><span style="color:#6495ED">[J]</span><span style="color:#6495ED">[L]</span><span style="color:#6495ED">[M]</span>|<span style="color:#50C878">[B]</span><span style="color:#6495ED">[J]</span><span style="color:#6495ED">[L]</span><span style="color:#6495ED">[M]</span>
-
 | Explainability| <span style="color:#6495ED">[M]</span><span style="color:#6495ED">[N]</span><span style="color:#6495ED">[O]</span><span style="color:#6495ED">[P]</span><span style="color:#6495ED">[Q]</span><span style="color:#50C878">[AC]</span><span style="color:#50C878">[AD]</span> |<span style="color:#6495ED">[M]</span><span style="color:#6495ED">[N]</span><span style="color:#6495ED">[O]</span><span style="color:#6495ED">[P]</span><span style="color:#6495ED">[Q]</span><span style="color:#50C878">[AC]</span><span style="color:#50C878">[AD]</span>| <span style="color:#6495ED">[J]</span><span style="color:#6495ED">[M]</span><span style="color:#6495ED">[N]</span><span style="color:#6495ED">[O]</span><span style="color:#6495ED">[P]</span><span style="color:#6495ED">[Q]</span>|<span style="color:#6495ED">[J]</span><span style="color:#6495ED">[M]</span><span style="color:#6495ED">[N]</span><span style="color:#6495ED">[O]</span><span style="color:#6495ED">[P]</span><span style="color:#6495ED">[Q]</span><span style="color:#6495ED">[R]</span><span style="color:#6495ED">[S]</span>
-
 | Contestability| <span style="color:#6495ED">[U]</span>|<span style="color:#6495ED">[U]</span>|<span style="color:#6495ED">[T]</span><span style="color:#6495ED">[U]</span>|<span style="color:#6495ED">[T]</span><span style="color:#6495ED">[AF]</span>
-
 |Human Control|<span style="color:#6495ED">[V]</span>|<span style="color:#6495ED">[V]</span>|<span style="color:#6495ED">[T]</span><span style="color:#6495ED">[V]</span>|<span style="color:#6495ED">[C]</span><span style="color:#6495ED">[T]</span><span style="color:#6495ED">[V]</span>
-
 |Human Agency| ||<span style="color:#6495ED">[T]</span>|<span style="color:#6495ED">[T]</span><span style="color:#50C878">[B]</span><span style="color:#50C878">[AA]</span> 
 
 Mapping of available means for transmitting value-specific manifestations to different stakeholders based on the purpose of
