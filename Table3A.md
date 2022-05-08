@@ -1,7 +1,7 @@
 ## Tailored communication of system-related information
-| Value       | Development team  | Auditing team  | Data Domain experts | Decision subjects 
-| ----------- | ----------------- | -------------- | ------------------- | ------------------
 
+| Value       | Development team  | Auditing team  | Data Domain experts | Decision subjects |
+| ----------- | ----------------- | -------------- | ------------------- | ------------------
 | Privacy     | <span style="color:red">[K]</span> | <span style="color:red">[K]</span> | |<span style="color:#6495ED">[A]</span>  <span style="color:#50C878">[B]</span> 
 | Security | <span style="color:red">[K]</span> <span style="color:red">[W]</span> <span style="color:#50C878">[AB]</span> | <span style="color:red">[K]</span> <span style="color:red">[W]</span>  
 |Performance | <span style="color:#50C878">[F]</span><span style="color:red">[G]</span><span style="color:#50C878">[H]</span><span style="color:#50C878">[Y]</span><span style="color:#50C878">[Z]</span><span style="color:#50C878">[AE]</span> | <span style="color:red">[G]</span><span style="color:#50C878">[H]</span><span style="color:#50C878">[Y]</span><span style="color:#50C878">[Z]</span><span style="color:#50C878">[AE]</span> |<span style="color:#50C878">[I]</span> <span style="color:#6495ED">[J]</span>| <span style="color:#6495ED">[J]</span>
