@@ -6,6 +6,8 @@
 
 [References](references.md)
 
+[Content in PDF format](appendices.pdf)
+
 
 
 
