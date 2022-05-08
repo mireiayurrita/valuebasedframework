@@ -18,5 +18,7 @@ their insight and the nature of their knowledge. These means have been classifie
 specifying whether/how a value manifestation is fulfilled (red), strategies for fulfilling value manifestations (blue), and complete tools
 for enabling the fulfillment of value manifestations (green). 
 
+[Back to main page](index.md)
+
 
          
