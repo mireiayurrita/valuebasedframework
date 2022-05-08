@@ -1,8 +1,10 @@
-[From values to criteria and their manifestations](Table1.md)
+[A. From values to criteria and their manifestations](Table1.md)
 
-[Mapping stakeholders](Table2.md)
+[B. Mapping stakeholders](Table2.md)
 
-[Tailored communication of system-related information](Table3A.md)
+[C. Tailored communication of system-related information](Table3A.md)
+<br>
+<br>
 
 [References](references.md)
 
