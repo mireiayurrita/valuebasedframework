@@ -1,6 +1,6 @@
 |       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
 | ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
-<span style="color:#6495ED">[P]</span> | Contrastive explanation |   *EXPLAINABILITY*<br> - Post-hoc explanations |✅ |✅ |✅ | ✅ | Agnostic |- Example of minimum change that leads to different outcomes |  |
+<span style="color:#6495ED">[P]</span> | Contrastive explanation ([[88]](../references.md#veraliao2021), [[96]](../references.md#dhurandhar2018), [[97]](../references.md#mothilal2019))|   *EXPLAINABILITY*<br> - Post-hoc explanations |✅ |✅ |✅ | ✅ | Agnostic |- Example of minimum change that leads to different outcomes |  |
 
 
 <br>

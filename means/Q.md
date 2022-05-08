@@ -1,6 +1,6 @@
 |       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
 | ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
-<span style="color:#6495ED">[Q]</span> | Text-based explanation |   *EXPLAINABILITY*<br> - Post-hoc explanations |✅ |✅ |✅ | ✅ | Agnostic |- With or without outcome comparison |  |
+<span style="color:#6495ED">[Q]</span> | Text-based explanation ([[44]](../references.md#barredoarrieta2020), [[51]](../references.md#vanBerkel2021)) |   *EXPLAINABILITY*<br> - Post-hoc explanations |✅ |✅ |✅ | ✅ | Agnostic |- With or without outcome comparison |  |
 
 
 <br>

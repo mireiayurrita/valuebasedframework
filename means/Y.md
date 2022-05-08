@@ -1,6 +1,6 @@
 |       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
 | ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
-<span style="color:#50C878">[Y]</span> | AI Fairness 360[^23] | *PERFORMANCE* <br> - False Positive and Negative rates<br><br>*FAIRNESS* <br>  - False Positive and Negative rates across groups<br> - Debiasing algorithms <br><br> *NON-DISCRIMINATION*<br> - Analysis of data for potential biases, data quality assessment  | ✅| ✅| | | Classifiers: logistic regression, random forest classifier and neural networks| | - Bar charts<br> - Confidence bars | 
+<span style="color:#50C878">[Y]</span> | AI Fairness 360[^23] ([[59]](../references.md#bellamy2018))| *PERFORMANCE* <br> - False Positive and Negative rates<br><br>*FAIRNESS* <br>  - False Positive and Negative rates across groups<br> - Debiasing algorithms <br><br> *NON-DISCRIMINATION*<br> - Analysis of data for potential biases, data quality assessment  | ✅| ✅| | | Classifiers: logistic regression, random forest classifier and neural networks| | - Bar charts<br> - Confidence bars | 
 
 
 <br>

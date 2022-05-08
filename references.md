@@ -364,4 +364,139 @@ Clément Henin and Daniel Le Métayer. 2021.
 Beyond explainability: justifiability and contestability of algorithmic decision systems. 
 AI & SOCIETY (7 2021). [https://doi.org/10.1007/s00146-021-01251-8](https://doi.org/10.1007/s00146-021-01251-8)
 
+<a id="rossi2017">[78]</a> 
+Arianna Rossi and Monica Palmirani. 2017. 
+A Visualization Approach for Adaptive Consent in the European Data Protection Framework. 
+In 2017 Conference for E-Democracy and Open Government (CeDEM). IEEE, 159–170. [https://doi.org/10.1109/CeDEM.2017.23](https://doi.org/10.1109/CeDEM.2017.23)
+
+<a id="holtz2011">[79]</a> 
+Leif-Erik Holtz, Katharina Nocun, and Marit Hansen. 2011. 
+Towards Displaying Privacy Information with Icons. 338–348. [https://doi.org/10.1007/978-3-642-20769-3_27](https://doi.org/10.1007/978-3-642-20769-3_27)
+
+<a id="zimmerman2014">[80]</a> 
+Christian Zimmermann, Rafael Accorsi, and Gunter Muller. 2014. 
+Privacy Dashboards: Reconciling Data-Driven Business Models and Privacy. 
+In 2014 Ninth International Conference on Availability, Reliability and Security. IEEE, 152–157. [https://doi.org/10.1109/ARES.2014.27](https://doi.org/10.1109/ARES.2014.27)
+
+<a id="earp2016">[81]</a> 
+Julia Earp and Jessica Staddon. 2016. 
+"I had no idea this was a thing". 
+In Proceedings of the 6th Workshop on Socio-Technical Aspects in Security and
+Trust. ACM, New York, NY, USA, 79–86. [https://doi.org/10.1145/3046055.3046062](https://doi.org/10.1145/3046055.3046062)
+
+<a id="fischerhubner2016">[82]</a> 
+Simone Fischer-Hübner, Julio Angulo, Farzaneh Karegar, and Tobias Pulls. 2016.
+Transparency, Privacy and Trust – Technology for Tracking and Controlling My Data Disclosures: Does This Work? 3–14. [https://doi.org/10.1007/978-3-319-41354-9_1](https://doi.org/10.1007/978-3-319-41354-9_1)
+
+
+<a id="herder2020">[83]</a> 
+Eelco Herder and Olaf van Maaren. 2020. 
+Privacy Dashboards: The Impact of the Type of Personal Data and User Control on Trust and Perceived Risk. 
+In Adjunct Publication of the 28th ACM Conference on User Modeling, Adaptation and Personalization. ACM, New York, NY, USA, 169–174.
+[https://doi.org/10.1145/3386392.3399557](https://doi.org/10.1145/3386392.3399557)
+
+<a id="farke2021">[84]</a> 
+Florian M. Farke, David G. Balash, Maximilian Golla, Markus Dürmuth, and Adam J. Aviv. 2021. 
+Are Privacy Dashboards Good for End Users?
+Evaluating User Perceptions and Reactions to Google’s My Activity (Extended Version). (5 2021).
+
+<a id="krafft2019">[85]</a> 
+TD Krafft and K Zweig. 2019. 
+Transparenz und Nachvollziehbarkeit algorithmenbasierter Entscheidungsprozesse. Ein Regulierungsvorschlag (2019).
+
+<a id="amershi2015">[86]</a> 
+Saleema Amershi, Max Chickering, Steven M. Drucker, Bongshin Lee, Patrice Simard, and Jina Suh. 2015. ModelTracker. 
+In Proceedings of the 33rd
+Annual ACM Conference on Human Factors in Computing Systems. ACM, New York, NY, USA. [https://doi.org/10.1145/2702123.2702509](https://doi.org/10.1145/2702123.2702509)
+
+<a id="mishra2021">[87]</a> 
+Swati Mishra and Jeffrey M Rzeszotarski. 2021. 
+Designing Interactive Transfer Learning Tools for ML Non-Experts. 
+In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. ACM, New York, NY, USA. [https://doi.org/10.1145/3411764.3445096](https://doi.org/10.1145/3411764.3445096)
+
+<a id="veraliao2021">[88]</a> 
+Q. Vera Liao, Milena Pribić, Jaesik Han, Sarah Miller, and Daby Sow. 2021. 
+Question-Driven Design Process for Explainable AI User Experiences. (4 2021).
+
+<a id="anik2021">[89]</a> 
+Ariful Islam Anik and Andrea Bunt. 2021. 
+Data-Centric Explanations: Explaining Training Data of Machine Learning Systems to Promote Transparency. 
+In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. ACM, New York, NY, USA. [https://doi.org/10.1145/3411764.3445736](https://doi.org/10.1145/3411764.3445736)
+
+<a id="cai2019">[90]</a> 
+Carrie J. Cai, Jonas Jongejan, and Jess Holbrook. 2019. 
+The effects of example-based explanations in a machine learning interface. 
+In Proceedings of the 24th International Conference on Intelligent User Interfaces. ACM, New York, NY, USA. [https://doi.org/10.1145/3301275.3302289](https://doi.org/10.1145/3301275.3302289)
+
+<a id="veraliao2020">[91]</a> 
+Q. Vera Liao, Daniel Gruen, and Sarah Miller. 2020. 
+Questioning the AI: Informing Design Practices for Explainable AI User Experiences. (1 2020). [https://doi.org/10.1145/3313831.3376590](https://doi.org/10.1145/3313831.3376590)
+
+<a id="jin2021">[92]</a> 
+Weina Jin, Jianyu Fan, Diane Gromala, Philippe Pasquier, and Ghassan Hamarneh. 2021. EUCA: A Practical Prototyping Framework towards End-User-Centered Explainable Artificial Intelligence. (2 2021). 
+[https://arxiv.org/abs/2102.02437](https://arxiv.org/abs/2102.02437)
+
+<a id="dodge2019">[93]</a> 
+Jonathan Dodge, Q. Vera Liao, Yunfeng Zhang, Rachel K. E. Bellamy, and Casey Dugan. 2019. 
+Explaining Models: An Empirical Study of How Explanations Impact Fairness Judgment. (1 2019). [https://doi.org/10.1145/3301275.3302310](https://doi.org/10.1145/3301275.3302310)
+
+<a id="binns2018">[94]</a> 
+Reuben Binns, Max Van Kleek, Michael Veale, Ulrik Lyngs, Jun Zhao, and Nigel Shadbolt. 2018. 
+’It’s Reducing a Human Being to a Percentage’;
+Perceptions of Justice in Algorithmic Decisions. (1 2018). [https://doi.org/10.1145/3173574.3173951](https://doi.org/10.1145/3173574.3173951)
+
+<a id="alqaraawi2020">[95]</a> 
+Ahmed Alqaraawi, Martin Schuessler, Philipp Weiß, Enrico Costanza, and Nadia Berthouze. 2020. 
+Evaluating saliency map explanations for convolutional neural networks. 
+In Proceedings of the 25th International Conference on Intelligent User Interfaces. ACM, New York, NY, USA.
+[https://doi.org/10.1145/3377325.3377519](https://doi.org/10.1145/3377325.3377519)
+
+<a id="dhurandhar2018">[96]</a> 
+Amit Dhurandhar, Pin-Yu Chen, Ronny Luss, Chun-Chen Tu, Paishun Ting, Karthikeyan Shanmugam, and Payel Das. 2018. 
+Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives. (2 2018).
+
+<a id="mothilal2019">[97]</a> 
+Ramaravind Kommiya Mothilal, Amit Sharma, and Chenhao Tan. 2019. 
+Explaining Machine Learning Classifiers through Diverse Counterfactual
+Explanations. (5 2019). [https://doi.org/10.1145/3351095.3372850](https://doi.org/10.1145/3351095.3372850)
+
+<a id="long2020">[98]</a> 
+Duri Long and Brian Magerko. 2020. What is AI Literacy? Competencies and Design Considerations. 
+In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, New York, NY, USA, 1–16. 
+[https://doi-org.tudelft.idm.oclc.org/10.1145/3313831.3376727](https://doi-org.tudelft.idm.oclc.org/10.1145/3313831.3376727)
+
+<a id="hemment2019">[99]</a> 
+Drew Hemment, Ruth Aylett, Vaishak Belle, Dave Murray-Rust, Ewa Luger, Jane Hillston, Michael Rovatsos, and Frank Broz. 2019. 
+Experiential AI. AI Matters 5, 1 (4 2019), 25–31. [https://doi.org/10.1145/3320254.3320264](https://doi.org/10.1145/3320254.3320264)
+
+<a id="kluttz2018">[100]</a> 
+Daniel Kluttz, Nitin Kohli, and Deirdre K. Mulligan. 2018. 
+Contestability and Professionals: From Explanations to Engagement with Algorithmic Systems. SSRN Electronic Journal (2018). [https://doi.org/10.2139/ssrn.3311894](https://doi.org/10.2139/ssrn.3311894)
+
+<a id="calvert2019">[101]</a> 
+ Simeon C Calvert, Daniël D Heikoop, Giulio Mecacci, and Bart Van Arem. 2019.A human centric framework for the analysis of automated driving
+systems based on meaningful human control. 
+Theoretical Issues in Ergonomics Science 21, 4 (2019), 478–506. 
+[https://doi.org/10.1080/1463922X.2019.1697390](https://doi.org/10.1080/1463922X.2019.1697390)
+
+<a id="hong2021">[102]</a> 
+Matthew K. Hong, Adam Fourney, Derek DeBellis, and Saleema Amershi. 2021. Planning for Natural Language Failures with the AI Playbook. 
+In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. ACM, New York, NY, USA, 1–11. [https://doi.org/10.1145/3411764.3445735](https://doi.org/10.1145/3411764.3445735)
+
+<a id="nori2019">[103]</a> 
+Harsha Nori, Samuel Jenkins, Paul Koch, and Rich Caruana. 2019. 
+InterpretML: A Unified Framework for Machine Learning Interpretability. (9
+2019).
+
+<a id="henderson2020">[104]</a> 
+Peter Henderson, Jieru Hu, Joshua Romoff, Emma Brunskill, Dan Jurafsky, and Joelle Pineau. 2020. 
+Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning. (1 2020).
+
+<a id="vaccaro2020">[105]</a> 
+Kristen Vaccaro, Christian Sandvig, and Karrie Karahalios. 2020. 
+"At the End of the Day Facebook Does What ItWants". Proceedings of the ACM on
+Human-Computer Interaction 4, CSCW2 (10 2020), 1–22. [https://doi.org/10.1145/3415238](https://doi.org/10.1145/3415238)
+
+
+
 [Back to main page](index.md)

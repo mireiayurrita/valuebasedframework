@@ -1,6 +1,6 @@
 |       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
 | ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
-<span style="color:#50C878">[AC]</span> | InterpretML[^26]| *EXPLAINABILITY* <br> - Interpretability by design<br> - Post-hoc explanations  |✅ |✅ | | Both white box and blackbox models| || - Bar charts <br> - Line charts<br> - Decision trees  | |
+<span style="color:#50C878">[AC]</span> | InterpretML[^26] ([[97]](../references.md#mothilal2019), [[103]](../references.md#nori2019))| *EXPLAINABILITY* <br> - Interpretability by design<br> - Post-hoc explanations  |✅ |✅ | | Both white box and blackbox models| || - Bar charts <br> - Line charts<br> - Decision trees  | |
 
 
 <br>

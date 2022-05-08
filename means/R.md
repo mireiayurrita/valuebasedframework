@@ -1,6 +1,6 @@
 |       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
 | ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
-<span style="color:#6495ED">[R]</span> | Interactive demonstrations |   *EXPLAINABILITY*<br> - Post-hoc explanations | | | | ✅ | Agnostic | |   |
+<span style="color:#6495ED">[R]</span> | Interactive demonstrations ([[98]](../references.md#long2020)) |   *EXPLAINABILITY*<br> - Post-hoc explanations | | | | ✅ | Agnostic | |   |
 
 
 <br>

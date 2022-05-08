@@ -1,6 +1,6 @@
 |       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
 | ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
-<span style="color:#6495ED">[S]</span> | Experiential AI |   *EXPLAINABILITY*<br> - Post-hoc explanations | | | | ✅ | Agnostic |Art mediated between computer code and human comprehension | |
+<span style="color:#6495ED">[S]</span> | Experiential AI ([[99]](../references.md#hemment2019))|   *EXPLAINABILITY*<br> - Post-hoc explanations | | | | ✅ | Agnostic |Art mediated between computer code and human comprehension | |
 
 
 <br>

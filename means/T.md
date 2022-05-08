@@ -1,6 +1,6 @@
 |       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
 | ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
-<span style="color:#6495ED">[T]</span> | Interactive contestations |   *CONTESTABILITY*<br> - Mechanisms for users to ask questions and record disagreements with system behavior <br><br> *HUMAN CONTROL* <br> - Ability to override the decision made by the system <br> <br> *HUMAN AGENCY* <br> - Opportunity to self-assess the system | | |✅ | ✅ | Agnostic |Statements restricted to natural language |   |
+<span style="color:#6495ED">[T]</span> | Interactive contestations ([[77]](../references.md#henin2021), [[100]](../references.md#kluttz2018)]) |   *CONTESTABILITY*<br> - Mechanisms for users to ask questions and record disagreements with system behavior <br><br> *HUMAN CONTROL* <br> - Ability to override the decision made by the system <br> <br> *HUMAN AGENCY* <br> - Opportunity to self-assess the system | | |✅ | ✅ | Agnostic |Statements restricted to natural language |   |
 
 
 <br>

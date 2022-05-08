@@ -1,6 +1,6 @@
 |       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
 | ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
-<span style="color:#6495ED">[M]</span> | Example-based explanations |  *TRANSPARENCY* <br> - Disclosure of properties of data<br><br> *EXPLAINABILITY*<br> - Post-hoc explanations |✅ |✅ |✅ | ✅ | Agnostic |- Similar examples <br> - Typical examples<br> - Counterfactual example | - Example images from dataset if in the visual domain  |Normative vs comparative explanations
+<span style="color:#6495ED">[M]</span> | Example-based explanations ([[44]](../references.md#barredoarrieta2020), [[88]](../references.md#veraliao2021), [[90]](../references.md#cai2019), [[91]](../references.md#veraliao2020), [[92]](../references.md#jin2021), [[93]](../references.md#dodge2019), [[93]](../references.md#binns2018)) |  *TRANSPARENCY* <br> - Disclosure of properties of data<br><br> *EXPLAINABILITY*<br> - Post-hoc explanations |✅ |✅ |✅ | ✅ | Agnostic |- Similar examples <br> - Typical examples<br> - Counterfactual example | - Example images from dataset if in the visual domain  |Normative vs comparative explanations
 
 
 <br>

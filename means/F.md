@@ -1,6 +1,6 @@
 |       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
 | ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
-<span style="color:#50C878">[F]</span> | Model tracker interactive visualization | *PERFORMANCE* <br> - Accuracy <br> - False Positive and Negative rates  | ✅| | | | Classification tasks| | -  Summary statistics <br> - Confusion matrices <br> - Labels chart <br> - Precision-recall curves <br> - Connector lines to identify similar examples in feature space <br> - Highlighted boxes for correlations between features and target classes| 
+<span style="color:#50C878">[F]</span> | Model tracker interactive visualization ([[86]](../references.md#amershi2015)) | *PERFORMANCE* <br> - Accuracy <br> - False Positive and Negative rates  | ✅| | | | Classification tasks| | -  Summary statistics <br> - Confusion matrices <br> - Labels chart <br> - Precision-recall curves <br> - Connector lines to identify similar examples in feature space <br> - Highlighted boxes for correlations between features and target classes| 
 
 
 <br>

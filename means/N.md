@@ -1,6 +1,6 @@
 |       | Means  | Value(s) and Manifestation(s)| DT|AT | DE | DS | Application (model) | Approach | Visual elements | Additional details
 | ----------- |  --------------------------- | ---------------  |------------------------------|-------------| ----------------------|----------------------|----------------------------|--------------------|------------------------|--------------------------------- |
-<span style="color:#6495ED">[N]</span> | Explanation by simplification |   *EXPLAINABILITY*<br> - Post-hoc explanations |✅ |✅ |✅ | ✅ | Agnostic |- Decision rule <br> - Decision tree|   |
+<span style="color:#6495ED">[N]</span> | Explanation by simplification ([[44]](../references.md#barredoarrieta2020), [[92]](../references.md#jin2021)) |   *EXPLAINABILITY*<br> - Post-hoc explanations |✅ |✅ |✅ | ✅ | Agnostic |- Decision rule <br> - Decision tree|   |
 
 
 <br>
