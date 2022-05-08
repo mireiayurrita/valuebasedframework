@@ -13,4 +13,10 @@
 |Human Control|<span style="color:#6495ED">[V]</span>|<span style="color:#6495ED">[V]</span>|<span style="color:#6495ED">[T]</span><span style="color:#6495ED">[V]</span>|<span style="color:#6495ED">[C]</span><span style="color:#6495ED">[T]</span><span style="color:#6495ED">[V]</span>
 |Human Agency| ||<span style="color:#6495ED">[T]</span>|<span style="color:#6495ED">[T]</span><span style="color:#50C878">[B]</span><span style="color:#50C878">[AA]</span> 
 
+Mapping of available means for transmitting value-specific manifestations to different stakeholders based on the purpose of
+their insight and the nature of their knowledge. These means have been classified into three main categories: descriptive documents
+specifying whether/how a value manifestation is fulfilled (red), strategies for fulfilling value manifestations (blue), and complete tools
+for enabling the fulfillment of value manifestations (green). 
+
+
          
