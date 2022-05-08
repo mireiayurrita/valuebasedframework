@@ -16,16 +16,16 @@ Description of potential stakeholders that can be brought together as part of ou
 <a id="suresh2021">[76]</a> 
 Harini Suresh, Steven R. Gomez, Kevin K. Nam, and Arvind Satyanarayan. 2021. 
 Beyond Expertise and Roles: A Framework to Characterize the Stakeholders of Interpretable Machine Learning and their Needs. 
-In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. ACM, NewYork, NY, USA, 1–16. https://doi.org/10.1145/3411764.3445088
+In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. ACM, NewYork, NY, USA, 1–16. [https://doi.org/10.1145/3411764.3445088](https://doi.org/10.1145/3411764.3445088)
 
 <a id="henin2021">[77]</a> 
 Clément Henin and Daniel Le Métayer. 2021. 
 Beyond explainability: justifiability and contestability of algorithmic decision systems. 
-AI & SOCIETY (7 2021). https://doi.org/10.1007/s00146-021-01251-8
+AI & SOCIETY (7 2021). [https://doi.org/10.1007/s00146-021-01251-8](https://doi.org/10.1007/s00146-021-01251-8)
 
 <a id="barredoarrieta2020">[78]</a> 
 Alejandro Barredo Arrieta, Natalia Díaz-Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador Garcia, Sergio Gil-Lopez, Daniel Molina, Richard Benjamins, Raja Chatila, and Francisco Herrera. 2020. 
 Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI. 
-Information Fusion 58 (6 2020), 82–115. https://doi.org/10.1016/J.INFFUS.2019.12.012
+Information Fusion 58 (6 2020), 82–115. [https://doi.org/10.1016/J.INFFUS.2019.12.012](https://doi.org/10.1016/J.INFFUS.2019.12.012)
 
 
