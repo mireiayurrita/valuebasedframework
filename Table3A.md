@@ -1,4 +1,9 @@
-## Tailored communication of system-related information
+## Table C. Tailored communication of system-related information
+<br>
+Mapping of available means for transmitting value-specific manifestations to different stakeholders based on the purpose of
+their insight and the nature of their knowledge. These means have been classified into three main categories: descriptive documents
+specifying whether/how a value manifestation is fulfilled, strategies for fulfilling value manifestations, and complete tools
+for enabling the fulfillment of value manifestations. <br><br>
 
 | Value       | Development team  | Auditing team  | Data Domain experts | Decision subjects |
 | ----------- | ----------------- | -------------- | ------------------- | ------------------
@@ -14,10 +19,6 @@
 |Human Control|<span style="color:#6495ED">[[V]](means/V.md)</span>|<span style="color:#6495ED">[[V]](means/V.md)</span>|<span style="color:#6495ED">[[T]](means/T.md)</span><span style="color:#6495ED">[[V]](means/V.md)</span>|<span style="color:#6495ED">[[C]](means/C.md)</span><span style="color:#6495ED">[[T]](means/T.md)</span><span style="color:#6495ED">[[V]](means/V.md)</span>
 |Human Agency| ||<span style="color:#6495ED">[[T]](means/T.md)</span>|<span style="color:#6495ED">[[T]](means/T.md)</span><span style="color:#50C878">[[B]](means/B.md)</span><span style="color:#50C878">[[AA]](means/AA.md)</span> |
 
-Mapping of available means for transmitting value-specific manifestations to different stakeholders based on the purpose of
-their insight and the nature of their knowledge. These means have been classified into three main categories: descriptive documents
-specifying whether/how a value manifestation is fulfilled, strategies for fulfilling value manifestations, and complete tools
-for enabling the fulfillment of value manifestations. 
 
 [Back to main page](index.md)
 

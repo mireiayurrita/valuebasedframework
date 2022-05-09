@@ -1,4 +1,6 @@
-## From values to criteria and their manifestations
+## Table A. From values to criteria and their manifestations
+<br>
+Summary of the specific criteria that relate to each value considered in our ML assessment framework. These criteria are then translated into specific manifestations in the form of signifiers (orange), process-oriented practices (olive) or quantifiable indicators (magenta).<br><br>
 
 | Value       | Criteria  | Manifestations|
 | ----------- |---------- | --------------
@@ -14,7 +16,6 @@
 | Human Control | 1. **User/collective influence** ([[27]](references.md#bihrane2021), [[69]](references.md#kyunglee2017)) <br> 2. **Human review of automated decision** ([[2]](references.md#fjeld2020))<br> 3. **Choice of how and whether to delegate** ([[2]](references.md#fjeld2020))| - <span style="color:olive">Continuous monitoring of system to intervene ([[2]](references.md#fjeld2020), [[13]](references.md#europeancommissionEthicsAI2019), [[75]](references.md#teliaai2019))</span><br> - <span style="color:olive">Establishment levels of human discretion during the use of the system ([[8]](references.md#microsoftai2018), [[13]](references.md#europeancommissionEthicsAI2019))</span><br> - <span style="color:olive">Ability to override the decision made by the system ([[13]](references.md#europeancommissionEthicsAI2019))</span>
 | Human Agency| 1. **Respect for human autonomy** ([[2]](references.md#fjeld2020), [[11]](references.md#morley2020), [[13]](references.md#europeancommissionEthicsAI2019))<br> 2. **Power to decide. Ability to make informed autonomous decision** ([[13]](references.md#europeancommissionEthicsAI2019), [[27]](references.md#bihrane2021))<br> 3. **Ability to opt out of an automated decision** ([[2]](references.md#fjeld2020), [[13]](references.md#europeancommissionEthicsAI2019))|- <span style="color:orange">Give knowledge and tools to comprehend and interact with AI system ([[13]](references.md#europeancommissionEthicsAI2019))</span><br> - <span style="color:olive">Opportunity to self-assess the system ([[13]](references.md#europeancommissionEthicsAI2019))</span>
 
-Summary of the specific criteria that relate to each value considered in our ML assessment framework. These criteria are then translated into specific manifestations in the form of signifiers (orange), process-oriented practices (olive) or quantifiable indicators (magenta).
 
 [Back to main page](index.md)
 
