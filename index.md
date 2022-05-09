@@ -14,7 +14,7 @@ In an effort to regulate Machine Learning-driven (ML) systems, current auditing 
 
 [References](references.md)
 
-[Content of tables A, B, C in PDF format](AppABC.pdf)
+[Content of appendices A, B, C in PDF format](AppABC.pdf)
 
 <br> <br>
 
