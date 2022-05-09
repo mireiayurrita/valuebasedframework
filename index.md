@@ -38,4 +38,4 @@ Mireia Yurrita, Dave Murray-Rust, Agathe Balayn, Alessandro Bozzon, *Towards a m
 ```
 <br> 
 
-Contact: m.yurritasemperena@tudelft.nl
+Contact: [m.yurritasemperena@tudelft.nl](m.yurritasemperena@tudelft.nl)
