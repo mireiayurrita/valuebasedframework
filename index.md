@@ -4,11 +4,11 @@ In an effort to regulate Machine Learning-driven (ML) systems, current auditing 
 
 # Additional material:
 
-[Table A. From values to criteria and their manifestations](Table1.md)
+[Appendix A. From values to criteria and their manifestations](Table1.md)
 
-[Table B. Mapping stakeholders](Table2.md)
+[Appendix B. Mapping stakeholders](Table2.md)
 
-[Table C. Tailored communication of system-related information](Table3A.md)
+[Appendix C. Tailored communication of system-related information](Table3A.md)
 <br>
 <br>
 
