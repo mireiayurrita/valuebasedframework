@@ -22,7 +22,7 @@ In an effort to regulate Machine Learning-driven (ML) systems, current auditing 
 
 
 
-Mireia Yurrita, Dave Murray-Rust, Agathe Balayn, Alessandro Bozzon, *Towards a multi-stakeholder value-based assessment framework for algorithmic systems*,  ACM Conference on Fairness, Accountability, and Transparency (2022). ([Proceedings](https://doi.org/10.1145/3531146.3533118)) ([Full Open Access paper](include_arxiv_path))
+Mireia Yurrita, Dave Murray-Rust, Agathe Balayn, Alessandro Bozzon, *Towards a multi-stakeholder value-based assessment framework for algorithmic systems*,  ACM Conference on Fairness, Accountability, and Transparency (2022). ([Proceedings](https://doi.org/10.1145/3531146.3533118)) ([Full Open Access paper](https://doi.org/10.48550/arXiv.2205.04525))
 
 ```bib
    @inproceedings{10.1145/3531146.3533118,
